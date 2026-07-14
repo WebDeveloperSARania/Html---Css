@@ -1,0 +1,301 @@
+*{
+	margin: 9;
+	padding: 0;
+}
+body{
+	background: #dddddd;
+}
+
+#header{
+	width: 1480px;
+	height: 130px;
+	background: #000000;
+	margin: 0 auto;
+}
+#header .logo{
+	width: 20%;
+	height: 100%;
+	/*background: darkorange;*/
+	float: left;
+
+}
+
+
+#header .menu{
+	width: 60%;
+	height: 100%;
+	/*background: orange;*/
+	float: left;
+
+}
+#header .menu ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#header .menu ul li{
+	float: left;
+}
+#header .menu ul li a{
+	color: #ffffff;
+	text-decoration: none;
+	font-size: 27px;
+	padding: 49px 45px;
+	display: block;
+}
+#header .menu ul li a:hover{
+	background: blue;
+
+}
+
+
+#header .sm{
+	width: 20%;
+	height: 100%;
+	/*background: orangered;*/
+	float: left;
+
+}
+
+#header .sm a{
+	text direction: none;
+	color: #ffffff;
+	text-decoration: none;
+}
+#header .sm a:hover{
+	color: green;
+
+}
+
+#header .sm a i{
+	font-size: 45px;
+	color: #ffffff;
+	padding: 40px 10px;
+
+}
+#header .sm a i:hover{
+	color: green;
+
+}
+hr{
+	width: 1480px;
+	height: 2px;
+	margin: 0 auto;
+
+}
+
+/*Start Hero*/
+
+
+#hero{
+	width: 1480px;
+	height: 700px;
+	background: #000000;
+	margin: 0 auto;
+	padding: 2px;
+
+}
+
+#hero h1{
+	color: #ffffff;
+	text-align: center;
+	font-size: 60px;
+	padding-top: 110px;
+
+}
+
+#hero .hh{
+	color: red;
+	background: red;
+	height: 2px;
+	width: 600px;
+
+}
+
+
+#hero p{
+	color: #ffffff;
+	text-align: justify;
+	font-size: 25px;
+	padding: 10px 130px;
+
+}
+
+#hero button{
+	background: green;
+	color: #ffffff;
+	font-size: 25px;
+	padding: 10px 20px;
+	margin-left: 600px;
+}
+
+
+
+/*End hero*/
+
+/*seServices*/
+
+#services{
+	width: 1480px;
+	height: 600px;
+	background: #000000;
+	margin-left: 264px;
+	padding: 2px;
+
+}
+
+#services .services-01{
+	width: 32%;
+	height: 80%;
+	float: left;
+	margin: 5% 0;
+	border-right: 1px solid #ffffff;
+
+
+}
+
+
+#services .services-01 i{
+	padding: 20px 170px;
+	color: #ffffff;
+	font-size: 85px;
+}
+
+
+#services .services-01 h3{
+	text-align: center;
+	color: #ffffff;
+	font-size: 26px;
+
+}
+
+#services .services-01 p{
+	text-align: justify;
+	color: #ffffff;
+	font-size: 22px;
+	padding: 15px 12px;
+
+}
+
+#services .services-01 button{
+	margin-left: 175px;
+	color: #ffffff;
+	font-size: 25px;
+	background: green;
+
+}
+
+
+
+#services .services-02{
+	width: 32%;
+	height: 80%;
+	/*background: red;*/ 
+	float: left;
+	margin: 5% 1%;
+	border-right: 1px solid #ffffff;
+
+
+}
+
+
+#services .services-02 i{
+	padding: 20px 170px;
+	color: #ffffff;
+	font-size: 85px;
+
+}
+
+
+#services .services-02 h3{
+	text-align: center;
+	color: #ffffff;
+	font-size: 26px;
+
+}
+
+#services .services-02 p{
+	text-align: center;
+	color: #ffffff;
+	font-size: 22px;
+	padding: 15px 12px;
+
+}
+
+#services .services-02 button{
+	margin-left: 175px;
+	color: #ffffff;
+	font-size: 25px;
+	background: green;
+	border-right: 1px solid #ffffff;
+}
+
+#services .services-03{
+	width: 32%;
+	height: 80%;
+	/*background: blue;*/
+	float: left;
+	margin: 5% 0;
+
+
+}
+
+
+#services .services-03 i{
+	padding: 20px 170px;
+	color: #ffffff;
+	font-size: 85px;
+
+}
+
+
+#services .services-03 h3{
+	text-align: center;
+	color: #ffffff;
+	font-size: 26px;
+
+}
+
+#services .services-03 p{
+	text-align: center;
+	color: #ffffff;
+	font-size: 22px;
+	padding: 15px 12px;
+
+}
+
+#services .services-03 button{
+	margin-left: 175px;
+	color: #ffffff;
+	font-size: 25px;
+	background: green;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
